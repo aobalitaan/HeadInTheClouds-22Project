@@ -1,3 +1,5 @@
+![alt text](https://github.com/aobalitaan/HeadInTheClouds_22Project/blob/main/HeadInTheClouds/src/images/icon.PNG?raw=true)
+
 # HeadInTheClouds_22Project
 This game is a platform jump game where the player must jump in a never ending series of clouds without falling. It is a fun and challenging game that tests the player’s reflexes and timing.
 
